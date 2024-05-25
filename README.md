@@ -14,6 +14,7 @@ Source code and data is not available.
 * __[Amazon]()__ : Scraping laptops data from Amazon website using Selenium to get some insights about the capabilities of laptops and the price for each.
 <img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Amazon/media/amazon_gif.gif?raw=true"/>
 <br>
+
 * __[Booking]()__ : Scraping data from Booking using Selenium to gather hotels informations for analysis depending on customer requirements.
 <img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Booking/media/Booking_gif.gif?raw=true" />
 <br>
