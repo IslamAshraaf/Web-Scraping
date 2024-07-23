@@ -24,7 +24,9 @@ Source code and data is not available.
 <br>
 
 * __[Opensouq (Egyptian Apartments)]()__ : Python script running in the background to scarp apartment listings from Opensooq using Beautiful Soup to gain insights and help to decide which apartment to buy.
+<img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Opensooq%20(Egyptian%20Apartments)/csv_sample.png?raw=true"/>
 <br>
 
 * __[Wuzzuf]()__ : Python script running in the background to scarp job listings from Wuzzuf using Beautiful Soup to analyze job market trends.
+<img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Wuzzuf/csv_sample.png?raw=true"/>
 <br>

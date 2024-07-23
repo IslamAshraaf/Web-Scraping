@@ -163,6 +163,8 @@ cython_debug/
 *.py
 *.pkl
 *.csv
+*.xlsx
 *.mp4
 *.pdf
 *.ipynb
+*.jpeg
