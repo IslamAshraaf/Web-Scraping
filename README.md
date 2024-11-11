@@ -40,6 +40,6 @@ Source code and data is not available.
 <img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Wuzzuf/csv_sample.png?raw=true"/>
 <br>
 
-* __[Downlaod Images]()__ : Python script download images via urls and save them in specific directory.
+* __[Downlaod Images]()__ : Python script download images via urls and save them automatically.
 <img src="https://github.com/IslamAshraaf/Web-Scraping/blob/main/Images%20Download/Stream/media/Image_Stream_Download.gif?raw=true"/>
 <br>
